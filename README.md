@@ -2,7 +2,7 @@
 
 A library for matching a string into a record of functions of statically known Symbol proxies.
 
-Named after 干编四季豆 (gan bian sijidou), aka what people call "that string bean dish I tried once in a weird Chinese restaurant".
+Named after 干煸四季豆 (gan bian sijidou), aka what people call "that string bean dish I tried once in a weird Chinese restaurant".
 
 ![](https://i.imgur.com/9iWaGD5.jpg)
 
